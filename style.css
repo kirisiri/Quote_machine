@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+body {
+	background-color: #00BFFF; 
+	text-align: center;
+	font-family: Montserrat;  
+}
+h1 {
+	color: white;
+	margin-top: 150px;
+	margin-bottom: 150px;
+	font-size: 30px;
+}
+a {
+	text-decoration: none;
+	color: white;
+}
+
+button {
+	width: 250px;
+	height: 30px;
+	color: white;
+	border: 1px solid white;
+	border-radius: 5px;
+	background-color: transparent;
+}
